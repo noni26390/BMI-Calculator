@@ -1,4 +1,4 @@
-# Write Python 3 code in t# BMI calculator
+# Write Python 3 code in the BMI calculator
 
 weight = float(input("Enter your weight in kg:"))
 height = float(input("Enter your height in meter:"))

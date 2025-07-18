@@ -1,4 +1,4 @@
-# Write Python 3 code in the BMI calculator
+# Write Python code in the BMI calculator
 
 weight = float(input("Enter your weight in kg:"))
 height = float(input("Enter your height in meter:"))
